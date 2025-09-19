@@ -1,0 +1,5 @@
+9/17
+
+Week One AI Journal Entry
+
+This week I have used AI, specifically for some problems that I do not remember how to do on the exercise, considering I did not code or utilize Python all summer. While I did have an internship this summer, I it was more business/operations focused, and the most complex tool I utilized was excel, with limited Power BI. This has made my Python skills very rusty, and it will probably take some time to get up to speed again, but AI has been helpful at explaining the missing links.
