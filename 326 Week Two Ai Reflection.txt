@@ -1,0 +1,5 @@
+9/21
+
+Week Two AI Journal Entry
+
+This week I did not use AI for completing any significant coursework. I spent the week trying to compare different models (ex. in Chat with o3, GPT 5, etc), seeing how each model explored similar questions, and which model would be the best for numerical reasoning, writing/grammar, critical thinking, coding, and all around. I found that GPT 5, o3, and surprisingly Perplexity were the best all around, but I will need to do more concrete testing centered around my day-to-day in the future for more accurate results. 
