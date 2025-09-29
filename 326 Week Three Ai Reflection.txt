@@ -1,0 +1,7 @@
+9/28
+
+Week Three AI Journal Entry
+
+This week I followed up my last weeks AI usage of experimenting with different AI models and actually putting my tests into practice. On this weeks exercises, I used Gemini to help generate some example problems to complete as a warm-up to before I started my weekly exercises. 
+
+This week i also experimented with using Copilot to organize assignments on Canvas directly onto my Microsoft calendar, but that is still a WIP.
