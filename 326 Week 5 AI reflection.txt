@@ -1,0 +1,7 @@
+AI Usage Journal
+Linwood Tie
+10/12/2025
+
+This week I used AI both in and out of the classroom. As I mentioned in last weeks reflection, the 2026 summer intern cycle is in full swing and AI has been assisting me in finding new jobs (there are some very helpful AI-powered job boards such as jobright) and filtering out jobs that may not be suitable for me.
+
+In terms of the classroom, AI has been very helpful within my project. My team's app is centered around APIs and information retrieval, taking information from crypto apps such as coinbase and displaying/condensing specific live information that users may find more useful and convenient. Within our project, I am tasked with the ui/ux design portion, which comes its own unique challenges. It is fun integrating my creative side in terms of display with the technical side of python, but it is a bit tedious. To make things easier, I have been using GPT 5 to double check my work, point out any formatting errors, and come up with any new ideas in terms of display (did not use its ideas but were pretty interesting).
