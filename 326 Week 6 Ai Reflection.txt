@@ -1,0 +1,7 @@
+10/26/2025
+
+Week 6 AI Journal Entry
+
+This week I used AI for exploring different ideas in my project, and basic debugging for both my project and the weekly exercises.
+
+For my project, I am a bit rusty at using things like Figma, but also a bit uninspired/cloudy in terms of creativity and critical thinking. With this, I have been taking advantage of ChatGPT to give me some ideas related to UI/UX design, and hopefully I can implement some ideas into my project.
