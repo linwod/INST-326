@@ -1,0 +1,5 @@
+11/23/2025
+
+Week 10 AI Journal Entry
+
+This week I used AI more than usual, especially compared last week. First, when working on our project, I had to add more functionality to our menu, which was a struggle. I had to do a complete overhaul of my previous work, and I used ChatGPT to give different ideas of expanded functions and how to alter the original scope of my project. With Chat, I inputted some code and test cases to see how the added functions would work before inputting directly in vscode. In addition to my project, this week's exercises were also relatively hard. On certain questions I asked Chat for some test cases to use and to explain some unfamiliar concepts.
